@@ -2,7 +2,6 @@ import openai
 import streamlit as st
 from streamlit_chat import message
 import pandas as pd
-import creds
 
 # Setting page title and header
 st.set_page_config(page_title="Cotexhub", page_icon=":robot_face:")
